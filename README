@@ -1,5 +1,5 @@
 This is a work-in-progress implementation of a split vanity generator for Bitcoin.
 
 To run, change the Bitcoin address in address.txt to the one owned by you (for TestNet).
-
+ 
 While running on Mac, make sure your terminal's directory is containing the address.txt file.
